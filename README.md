@@ -1,5 +1,8 @@
 ## Visit Website : https://subhamgtm15.github.io/react/
 
+## I tried to recreate this static page from figma 
+https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0-1&p=f
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
