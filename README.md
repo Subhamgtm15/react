@@ -1,4 +1,4 @@
-## Visit Website : https://subhamgtm15.github.io/react/
+## Visit Website : https://react-six-taupe-78.vercel.app/
 
 ## I tried to recreate this static page from figma 
 https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0-1&p=f
